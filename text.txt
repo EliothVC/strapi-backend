@@ -1,0 +1,1 @@
+postgresql://neondb_owner:npg_ZR4mP6lbdVDh@ep-late-lake-acasfrys-pooler.sa-east-1.aws.neon.tech/strapibackend?sslmode=require&channel_binding=require
